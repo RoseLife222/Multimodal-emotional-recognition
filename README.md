@@ -1,5 +1,5 @@
 # Multimodal-emotional-recognition
-ultimodal Emotion Recognition
+Multimodal Emotion Recognition
 Project Overview
 This project aims to build a Multimodal Emotion Recognition system that combines visual and textual data to predict human emotions accurately. The model leverages facial expression data from the FER 2013 dataset alongside textual sentiment data from the Sentiment140 dataset to perform robust emotion classification.
 
