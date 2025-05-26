@@ -1,0 +1,6 @@
+# Ignore large dataset files
+data/
+*.zip
+*.csv
+*.h5
+*.npy
